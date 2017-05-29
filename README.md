@@ -1,0 +1,5 @@
+# LCD_ST7735_BMP280
+STM32F303VCT6
+color LCD 1.8" ST7735
+Digital Pressure Sensor BMP280
+use STM32Fxxx HAL Libraries
